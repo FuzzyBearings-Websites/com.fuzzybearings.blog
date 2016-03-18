@@ -1,0 +1,13 @@
+# Site settings
+brand: Fuzzy Bearings
+title: Blog
+subtitle: No idea what I'm doing.
+description: > # this means to ignore newlines until "baseurl:"
+  Blog | Fuzzy Bearings
+baseurl: ""
+url: "http://blog.fuzzybearings.com"
+twitter_username: FuzzyBearings
+github_username:  FuzzyBearings
+
+markdown: kramdown
+exclude: [go.sh]
