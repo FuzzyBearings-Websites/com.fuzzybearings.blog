@@ -44,12 +44,19 @@ a {
 	text-decoration: none;
 }
 
-p a {
-	border-bottom: 1px dotted lighten($text-color, 65%);
+p {
+	a {
+		background-color: lighten($accent-color, 63%);
+		border-radius: 4px;
+		padding: 2px;
+	}
+	a:hover {
+		background-color: lighten($accent-color, 60%);
+	};
 }
 
 div.subtext {
-	color: #aa0000;
+	color: $accent-color;
 }
 
 /* posts */
