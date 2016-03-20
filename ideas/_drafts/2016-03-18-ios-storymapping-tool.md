@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Storymapping & Kanban
+title: iOS Storymapping Tool
 author: LB
-pitch: Just like peanut butter and chococolate, I need a storymapping tool to go along with my kanban board. More specifically, I'd like to organize the stories in terms of use cases
+pitch: Can you imagine organizing your projects via <a href="http://jpattonassociates.com/user-story-mapping/">Storymapping</a>? Do you long for a tool that allows you to create, associate, and track goals, activities, user narrative, and story level details? I could certainly use such a tool in my day to day. I've seen a few services (<a href="https://cardboardit.com/">CardboardIT</a>, <a href="http://storiesonboard.com/">Stories On Board</a>) but I haven't come across anything tailored fort the iPad. I personally want to find a way to integrate a storymapping tool with a <a href="https://en.wikipedia.org/wiki/Kanban_(development)">kanban board</a>. And for extra-credit, I'd like to visualize user stories on the kanban board in terms of use cases!
 ---
 
 Like peanut butter and chococolate, I need a [storymapping](http://www.agileproductdesign.com/presentations/user_story_mapping/) tool to go along with my kanban board. More specifically, I'd like to organize stories in terms of use cases so I can:
