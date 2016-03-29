@@ -102,9 +102,9 @@ li.post {
 }
 
 img.dynamic {
-	width: 500px;	
+	width: 500px;
 	@media (max-width: $device-max-width) {
-		width: 320px;
+		width: 280px;
 	}
 }
 
