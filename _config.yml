@@ -1,7 +1,7 @@
 # Site settings
 brand: Fuzzy Bearings
 title: Blog
-subtitle: No idea what I'm doing.
+subtitle: limited visibility and signficant course correction
 description: > # this means to ignore newlines until "baseurl:"
   Blog | Fuzzy Bearings
 baseurl: ""
